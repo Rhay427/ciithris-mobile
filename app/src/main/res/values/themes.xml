@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Capstone_employee" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/lblue</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/lblue</item>
+        <item name="colorSecondaryVariant">@color/lblue</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorOnPrimary</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="roundCorner">
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="timeCorner">
+        <item name="cornerSize">20dp</item>
+    </style>
+    <style name="headerRound">
+        <item name="cornerSizeBottomLeft">100%</item>
+    </style>
+    <style name="dashboard">
+        <item name="cornerSizeTopLeft">20dp</item>
+        <item name="cornerSizeTopRight">20dp</item>
+    </style>
+</resources>

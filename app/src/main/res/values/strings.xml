@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SEMIS</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_activity_bottom_nav">BottomActivity</string>
+    <string-array name="leave_type">
+        <item>Select Type</item>
+        <item>Sick Leave</item>
+        <item>Vacation Leave</item>
+        <item>Calamity Leave</item>
+        <item>Accidental Leave</item>
+        <item>Birthday Leave</item>
+        <item>Hospitalization Leave</item>
+        <item>Government Transaction Leave</item>
+        <item>Funeral Leave</item>
+        <item>Enrollment Leave</item>
+    </string-array>
+</resources>
